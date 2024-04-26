@@ -367,7 +367,7 @@ enum GenderCharacter {
 
 Lo aplico en la pantalla de detalle.
 
-![Pantalla ListView](/pantalladetallen.png)
+![Pantalla ListView](/pantalladetalle.png)
 
 ![Pantalla ListView](/statusdead.png)
 
