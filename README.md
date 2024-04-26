@@ -289,7 +289,7 @@ struct CustomModifierCardDetailItem: ViewModifier {
 Esta es la pantalla que muestra el listado inicial y permite una búsqueda por nombre.
 
 
-![Pantalla ListView](/pantallainicial.png)
+![Pantalla ListView](/pantallainicial400.png)
 
 
 
