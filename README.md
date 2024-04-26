@@ -309,12 +309,12 @@ Paginador en la pantalla
 
 La primera petición obtiene de la peticiòn el info (pages) el número de páginas para generar botonera.
 
-![Pantalla ListView](/pantallapaginadornew.png)
+![Pantalla ListView](/pantallapaginador.png)
 
 Página 20 seleccionada.
 
 
-![Pantalla ListView](/pantallapaginador20.png)
+![Pantalla ListView](/pantallapaginador.png)
 
 
 
@@ -367,7 +367,7 @@ enum GenderCharacter {
 
 Lo aplico en la pantalla de detalle.
 
-![Pantalla ListView](/pantalladetallenew400.png)
+![Pantalla ListView](/pantalladetallen.png)
 
 ![Pantalla ListView](/statusdead.png)
 
