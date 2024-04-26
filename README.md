@@ -314,7 +314,7 @@ La primera petición obtiene de la peticiòn el info (pages) el número de pági
 Página 20 seleccionada.
 
 
-![Pantalla ListView](/pantallapaginador.png)
+![Pantalla ListView](/pagina20.png)
 
 
 
